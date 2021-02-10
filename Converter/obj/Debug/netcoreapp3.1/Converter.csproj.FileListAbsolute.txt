@@ -1,0 +1,15 @@
+G:\Botva\repos\C#\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.exe
+G:\Botva\repos\C#\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.deps.json
+G:\Botva\repos\C#\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.json
+G:\Botva\repos\C#\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.dev.json
+G:\Botva\repos\C#\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.dll
+G:\Botva\repos\C#\Converter\Converter\bin\Debug\netcoreapp3.1\Converter.pdb
+G:\Botva\repos\C#\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.csprojAssemblyReference.cache
+G:\Botva\repos\C#\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.Form1.resources
+G:\Botva\repos\C#\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.csproj.GenerateResource.cache
+G:\Botva\repos\C#\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfoInputs.cache
+G:\Botva\repos\C#\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfo.cs
+G:\Botva\repos\C#\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.csproj.CoreCompileInputs.cache
+G:\Botva\repos\C#\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.dll
+G:\Botva\repos\C#\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.pdb
+G:\Botva\repos\C#\Converter\Converter\obj\Debug\netcoreapp3.1\Converter.genruntimeconfig.cache

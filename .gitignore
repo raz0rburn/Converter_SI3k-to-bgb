@@ -1,2 +1,3 @@
-Converter/bin/*
-Converter/obj/*
+Converter/bin/**
+Converter/obj/**
+.vs/*
